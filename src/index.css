@@ -16,9 +16,16 @@ code {
   margin-bottom: 10vh;
   margin-left: 3vw;
   margin-right: 3vw;
+  
 }
 
 .div_margins_b {
   margin-left: 3vw;
   margin-right: 3vw;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+.div_margins_c {
+  
 }
