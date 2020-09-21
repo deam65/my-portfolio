@@ -20,12 +20,15 @@ code {
 }
 
 .div_margins_b {
-  margin-left: 3vw;
-  margin-right: 3vw;
-  margin-top: 1vh;
-  margin-bottom: 1vh;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  
+  margin-bottom: 6vh;
 }
 
 .div_margins_c {
-  
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-top: 6vh;
+  margin-bottom: 6vh;
 }
